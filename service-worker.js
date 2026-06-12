@@ -1,4 +1,4 @@
-const CACHE_NAME = 'pwa-estudos-v1';
+const CACHE_NAME = 'pwa-estudos-v2';
 
 const ARQUIVOS = [
     './',
